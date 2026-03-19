@@ -76,6 +76,7 @@ python rock_paper_scissors.py
 ## 💡 Example Output
 
 ```
+<img width="1394" height="397" alt="image" src="https://github.com/user-attachments/assets/ebfa0438-fbcc-4acd-8745-38333feb1b75" />
 
 
 ```
