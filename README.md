@@ -1,8 +1,8 @@
-<div align="center">
+
   
 # Rock Paper Scissors Game 🎮
 
-</div>
+
 
 A simple command-line **Rock Paper Scissors game** built using Python where the user plays against the computer.
 
