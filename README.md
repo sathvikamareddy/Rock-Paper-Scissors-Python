@@ -75,10 +75,8 @@ python rock_paper_scissors.py
 
 ## 💡 Example Output
 
-```
 
-
-<img width="1394" height="397" alt="image" src="https://github.com/user-attachments/assets/9fbcbab8-9d1d-4336-a19b-2baec66ff0f8" />
+![Rock Paper Scissors Output](game.png)
 
 
 
