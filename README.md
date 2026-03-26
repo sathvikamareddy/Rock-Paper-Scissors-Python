@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 # Rock Paper Scissors Game 🎮
 
